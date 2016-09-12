@@ -1,0 +1,30 @@
+[FTL] 2016-09-10 18:48:14 | Error: FATAL:  password authentication failed for user "shift"
+FATAL:  password authentication failed for user "shift"
+
+[inf] 2016-09-10 18:48:14 | SHIFT started: 0.0.0.0:53900
+[inf] 2016-09-10 18:49:05 | SHIFT started: 0.0.0.0:53900
+[FTL] 2016-09-10 18:49:05 | Error: FATAL:  password authentication failed for user "shift"
+FATAL:  password authentication failed for user "shift"
+
+[inf] 2016-09-10 18:49:24 | SHIFT started: 127.0.0.1:53900
+[FTL] 2016-09-10 18:49:24 | Error: FATAL:  password authentication failed for user "shift"
+FATAL:  password authentication failed for user "shift"
+
+[inf] 2016-09-10 18:54:56 | SHIFT started: 127.0.0.1:53900
+[FTL] 2016-09-10 18:54:57 | Domain dapps - {"message":"Cannot find module 'shiftsk-sandbox'","stack":"Error: Cannot find module 'shiftsk-sandbox'\n    at Function.Module._resolveFilename (module.js:326:15)\n    at Function.Module._load (module.js:277:25)\n    at Module.require (module.js:354:17)\n    at require (internal/module.js:12:17)\n    at Object.<anonymous> (/home/joey/shift/modules/dapps.js:20:15)\n    at Module._compile (module.js:410:26)\n    at Object.Module._extensions..js (module.js:417:10)\n    at Module.load (module.js:344:32)\n    at Function.Module._load (module.js:301:12)\n    at Module.require (module.js:354:17)"}
+[inf] 2016-09-10 18:55:46 | SHIFT started: 127.0.0.1:53900
+[inf] 2016-09-10 18:55:46 | Modules ready and launched
+[inf] 2016-09-10 18:55:46 | Blocks 1
+[inf] 2016-09-10 18:57:40 | Cleaning up...
+[inf] 2016-09-10 18:57:40 | Cleaned up successfully
+[inf] 2016-09-10 19:01:02 | SHIFT started: 127.0.0.1:53900
+[inf] 2016-09-10 19:01:03 | Modules ready and launched
+[inf] 2016-09-10 19:01:03 | Blocks 1
+[ERR] 2016-09-10 19:05:25 | null
+[inf] 2016-09-10 19:05:26 | SHIFT started: 127.0.0.1:53900
+[inf] 2016-09-10 19:05:26 | Modules ready and launched
+[inf] 2016-09-10 19:05:26 | Blocks 1
+[inf] 2016-09-12 06:59:39 | SHIFT started: 127.0.0.1:53900
+[FTL] 2016-09-12 06:59:39 | Error: FATAL:  password authentication failed for user "shift"
+FATAL:  password authentication failed for user "shift"
+
