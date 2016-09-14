@@ -1,6 +1,6 @@
 {
     "port": 53900,
-    "address": "127.0.0.1",
+    "address": "45.63.98.98",
     "serveHttpAPI": true,
     "serveHttpWallet": true,
     "version": "0.1.0",
@@ -10,9 +10,9 @@
     "db": {
         "host": "localhost",
         "port": 5432,
-        "database": "shiftdb",
-        "user": "shift",
-        "password": "replace",
+        "database": "shiftdb_testnet",
+        "user": "shift_testnet",
+        "password": "shift_testnet",
         "poolSize": 30,
         "poolIdleTimeout": 30000,
         "reapIntervalMillis": 1000,
@@ -22,7 +22,7 @@
     },
     "api": {
         "access": {
-            "whiteList": []
+            "whiteList": ["45.63.98.98", "127.0.0.1", "*"]
         }
     },
     "peers": {
@@ -64,5 +64,5 @@
         "masterpassword": "N2ggKTUd68Wn",
         "autoexec": []
     },
-    "nethash": "ed14889723f24ecc54871d058d98ce91ff2f973192075c0155ba2b7b70ad2511"
+    "nethash": "984377d1c027a4739240f0102b226d43a7340bce1b4ed214e9be69828b142874"
 }
